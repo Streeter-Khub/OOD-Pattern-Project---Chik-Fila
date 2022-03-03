@@ -1,0 +1,16 @@
+BBQChickenSandwich: $6.99 added to Order
+: Current Time Stamp: 2021-10-14 18:55:28.899
+Fries Added to Order
+: Current Time Stamp: 2021-10-14 18:55:28.899
+Grilled Chicken Sandwich: $5.99 added to Order
+: Current Time Stamp: 2022-03-03 10:23:48.047
+Fries Added to Order
+: Current Time Stamp: 2022-03-03 10:23:48.047
+Jamaican Chicken Sandwich: $6.99 added to Order
+: Current Time Stamp: 2022-03-03 10:24:26.356
+FruitCup added to Order
+: Current Time Stamp: 2022-03-03 10:24:26.356
+BBQChickenSandwich: $6.99 added to Order
+: Current Time Stamp: 2022-03-03 10:25:08.012
+Fries Added to Order
+: Current Time Stamp: 2022-03-03 10:25:08.012
