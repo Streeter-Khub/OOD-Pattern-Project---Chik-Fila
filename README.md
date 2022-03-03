@@ -10,14 +10,14 @@ Patterns -
 * Abstract/Strategy - performs selection of sandwich & sides with in the Chikfila store
 * Observer - perform updates to our list of favorite items.
 
-* Display items is an interface used to display our favorite 
- *  items from our customer profile. Our itemName will be out menu
- *  items such as sandwich and sides.
+Display items is an interface used to display our favorite 
+ -  items from our customer profile. Our itemName will be out menu
+ -  items such as sandwich and sides.
 
- * FaveOrder is considered our subject in the observer pattern. This gives us 
- *  the ability to add, delete or notify our favorite list (objects which in this
- *  case is the menu items).
+FaveOrder is considered our subject in the observer pattern. This gives us 
+ -  the ability to add, delete or notify our favorite list (objects which in this
+ -  case is the menu items).
 
-* CustomerProfile is our concrete subject that implements FaveOrder interface.
- * We are able to create our Array of favorites which will add, delete or notify
- *  our object using the methods created.
+CustomerProfile is our concrete subject that implements FaveOrder interface.
+ - We are able to create our Array of favorites which will add, delete or notify
+ -  our object using the methods created.
